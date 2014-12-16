@@ -1,3 +1,3 @@
 Whatsapp Crash Exploit
 ========
-Just Copy and paste below text in the message:
+Just Copy and paste below text in the message and send
